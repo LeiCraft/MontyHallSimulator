@@ -31,6 +31,7 @@ class MontyHallSimulator {
         console.log(`- chance of winning by staying: ${(stayWins / rounds * 100).toFixed(2)}%`);
         console.log(`- Chance to win when switching: ${(switchWins / rounds * 100).toFixed(2)}%`);
     }
+    
 }
 
 
