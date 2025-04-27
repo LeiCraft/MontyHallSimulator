@@ -1,7 +1,7 @@
 
 class MontyHallSimulator {
 
-    static simulate(rounds = 100000) {
+    static async simulate(rounds = 100000) {
 
         let stayWins = 0;
         let switchWins = 0;

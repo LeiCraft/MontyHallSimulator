@@ -1,5 +1,5 @@
 {
-  "name": "montyhallsimulator",
+  "name": "monty-hall-simulator",
   "module": "index.ts",
   "type": "module",
   "private": true,
